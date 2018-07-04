@@ -1,0 +1,1 @@
+/home/brunneis/git/ancoris/ancoris-1.0.0-alpha/worker_api/helpers/consul_common.py
