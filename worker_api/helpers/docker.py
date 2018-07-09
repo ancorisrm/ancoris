@@ -133,7 +133,7 @@ def run_container(image,
     """
 
     if args == None:
-        args = ""
+        args = []
     if environment == None:
         environment = {}
     if not cores:
